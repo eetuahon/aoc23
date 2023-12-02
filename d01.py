@@ -41,7 +41,7 @@ def task2(f):
 
 def main():
     f = read_file()
-    #task1(f)
+    task1(f)
     task2(f)
 
 if __name__== "__main__":
